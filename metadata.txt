@@ -1,7 +1,7 @@
 [general]
 name=extent_preview
-description=Preview the extents of files in the map canvas.
-about=Preview the extents of files in the map canvas.
+description=Preview the extents of selected files in the browser.
+about=Preview the extents of files in the map canvas. Supports raster and vector layers as well as reading most .las/.laz headers.
 version=1.0
 qgisMinimumVersion=4.0
 author=Arthur Spitta
