@@ -1,7 +1,7 @@
 [general]
-name=extent_preview
+name=Extent Preview
 description=Preview the extents of selected files in the browser.
-about=Preview the extents of files in the map canvas. Supports raster and vector layers as well as reading most .las/.laz headers.
+about=A QGIS plugin that draws the extent of a layer onto the canvas when you select it in the Browser panel without loading the layer first. Supports raster and vector layers as well as reading most .las/.laz headers.
 version=1.0
 qgisMinimumVersion=4.0
 author=Arthur Spitta
