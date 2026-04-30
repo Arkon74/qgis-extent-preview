@@ -7,4 +7,5 @@ qgisMinimumVersion=4.0
 author=Arthur Spitta
 email=arthur@spitta.org
 repository=https://github.com/Arkon74/qgis-extent-preview
+tracker=https://github.com/Arkon74/qgis-extent-preview/issues
 supportsQt6=True
