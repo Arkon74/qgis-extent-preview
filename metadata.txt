@@ -1,10 +1,10 @@
 [general]
-name=Minimal
-description=Minimal plugin
-about=About this minimal plugin
+name=extent_preview
+description=Preview the extents of files in the map canvas.
+about=Preview the extents of files in the map canvas.
 version=1.0
-qgisMinimumVersion=3.0
-author=Martin Dobias
-email=wonder.sk@gmail.com
-repository=URL to the code repository
+qgisMinimumVersion=4.0
+author=Arthur Spitta
+email=arthur@spitta.org
+repository=tbd
 supportsQt6=True
