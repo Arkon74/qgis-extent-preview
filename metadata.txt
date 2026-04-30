@@ -6,5 +6,5 @@ version=1.0
 qgisMinimumVersion=4.0
 author=Arthur Spitta
 email=arthur@spitta.org
-repository=tbd
+repository=https://github.com/Arkon74/qgis-extent-preview
 supportsQt6=True
